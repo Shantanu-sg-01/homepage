@@ -28,7 +28,7 @@ params:
     author: Shantanu S. Gulawani
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: dark
+    defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: true
