@@ -77,23 +77,17 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
+          url: mailto:shantanu_as@mvjce.edu.in
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=hsilxtIAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/Shantanu-sg-01
         - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://shantanusg.substack.com
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/shantanu-gulawani-a133b2131
 
     assets:
         disableScrollBarStyle: true
@@ -101,7 +95,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Shantanu S. Gulawani"
       icon: favicon.ico
       iconHeight: 18
 
