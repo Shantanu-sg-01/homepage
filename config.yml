@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Shantanu S. Gulawani
-          subtitle: "Fascinated about Functional programming for Scientific Computing"
+          subtitle: "Advancing Aerospace Design through Functional Programming and High-Performance Computation."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -71,7 +71,7 @@ params:
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://shantanusg.substack.com
 
     socialIcons:
         - name: CV
@@ -84,8 +84,6 @@ params:
           url: https://scholar.google.com/citations?user=hsilxtIAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/Shantanu-sg-01
-        - name: Substack
-          url: https://shantanusg.substack.com
         - name: LinkedIn
           url: https://www.linkedin.com/in/shantanu-gulawani-a133b2131
 
