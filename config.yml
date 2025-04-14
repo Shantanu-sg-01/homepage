@@ -51,23 +51,23 @@ params:
           enabled: true
           title: Shantanu S. Gulawani
           subtitle: >
-          Welcome!
-          
-          I am a faculty member in the Aerospace Engineering Department at MVJ College of Engineering, Bengaluru. This website serves as a hub for my academic activities — a place where I share my research directions, student collaboration opportunities, and thoughts on engineering education and scientific computing.
-          
-          My research lies at the intersection of computational methods, numerical modeling, and modern software design for scientific applications. I explore ways to build robust, expressive, and high-performance computational tools — often drawing from the principles of declarative and functional programming, especially in the context of aerospace system simulation and design.
-          
-          Feel free to email me if you are interested in research collaborations, student projects, or mentoring conversations. I also maintain a Substack blog where I write about my research learnings, classroom ideas, and general observations from my academic journey. You can find my professional updates and connect with me on LinkedIn as well.
-          
-          If you would like to book a time slot to discuss a project, idea, or collaboration, you can do so here https://calendly.com/shantanu_as-mvjce/office-houre-in-person.
-          
-          Explore the site - 
-          
-          * The Research page - highlights areas I work on and ongoing directions.
-          
-          * The For Students page - contains all information about working with me and applying for research projects.
-          
-          * The Co-curricular section - showcases activities I’m involved in within the Aerospace department.
+            Welcome!
+            
+            I am a faculty member in the Aerospace Engineering Department at MVJ College of Engineering, Bengaluru. This website serves as a hub for my academic activities — a place where I share my research directions, student collaboration opportunities, and thoughts on engineering education and scientific computing.
+            
+            My research lies at the intersection of computational methods, numerical modeling, and modern software design for scientific applications. I explore ways to build robust, expressive, and high-performance computational tools — often drawing from the principles of declarative and functional programming, especially in the context of aerospace system simulation and design.
+            
+            Feel free to email me if you are interested in research collaborations, student projects, or mentoring conversations. I also maintain a Substack blog where I write about my research learnings, classroom ideas, and general observations from my academic journey. You can find my professional updates and connect with me on LinkedIn as well.
+            
+            If you would like to book a time slot to discuss a project, idea, or collaboration, you can do so here https://calendly.com/shantanu_as-mvjce/office-houre-in-person.
+            
+            Explore the site - 
+            
+            * The Research page - highlights areas I work on and ongoing directions.
+            
+            * The For Students page - contains all information about working with me and applying for research projects.
+            
+            * The Co-curricular section - showcases activities I’m involved in within the Aerospace department.
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
