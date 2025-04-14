@@ -10,21 +10,18 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: About me
           url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
           weight: 4 
+        - name: Research 
+          url: papers/
+          weight: 3
+        - name: For Students
+          url: courses/
+          weight: 2
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          url: https://shantanusg.substack.com
+          weight: 5
 
 params:
     description: "I am Assistant Professor of Aerospace Engineering at MVJ College of Engineering. I am interested in Design, Optimization, Computing and Coding."
@@ -42,7 +39,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["For Students","Research","About me","Blog"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -58,18 +55,16 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: For Students
               url: papers/
             - name: Courses
               url: courses/
-            - name: Data
+            - name: Co-curricular
               url: data/
-            - name: Books
+            - name: Research
               url: books/
-            - name: Tags
+            - name: About me
               url: tags/
-            - name: Archive
-              url: archive/
             - name: Blog
               url: https://shantanusg.substack.com
 
