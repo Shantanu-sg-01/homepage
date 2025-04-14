@@ -26,7 +26,7 @@ menu:
 params:
     description: "I am Assistant Professor of Aerospace Engineering at MVJ College of Engineering. I am interested in Design, Optimization, Computing and Coding."
     author: Shantanu S. Gulawani
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-8NPK6Q55VE"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
