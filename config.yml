@@ -17,7 +17,7 @@ menu:
           url: papers/
           weight: 3
         - name: For Students
-          url: content/students/
+          url: content/
           weight: 2
         - name: Blog
           url: https://shantanusg.substack.com
