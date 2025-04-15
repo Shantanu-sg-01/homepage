@@ -17,7 +17,7 @@ menu:
           url: papers/
           weight: 3
         - name: For Students
-          url: content/
+          url: students/
           weight: 2
         - name: Blog
           url: https://shantanusg.substack.com
@@ -77,7 +77,7 @@ params:
           imageHeight: 160
           buttons:
             - name: For Students
-              url: content/
+              url: students/
             - name: Courses
               url: courses/
             - name: Co-curricular
