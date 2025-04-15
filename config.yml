@@ -10,9 +10,6 @@ taxonomies:
 
 menu:
     main:
-        - name: About me
-          url: books/
-          weight: 4 
         - name: Research 
           url: research/
           weight: 3
@@ -21,7 +18,7 @@ menu:
           weight: 2
         - name: Blog
           url: https://shantanusg.substack.com
-          weight: 5
+          weight: 4
 
 params:
     description: "I am Assistant Professor of Aerospace Engineering at MVJ College of Engineering. I am interested in Design, Optimization, Computing and Coding."
@@ -84,8 +81,6 @@ params:
               url: reading/
             - name: Research
               url: research/
-            - name: About me
-              url: tags/
             - name: Blog
               url: https://shantanusg.substack.com
 
