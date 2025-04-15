@@ -14,7 +14,7 @@ menu:
           url: books/
           weight: 4 
         - name: Research 
-          url: papers/
+          url: research/
           weight: 3
         - name: For Students
           url: students/
@@ -83,7 +83,7 @@ params:
             - name: Co-curricular
               url: data/
             - name: Research
-              url: books/
+              url: research/
             - name: About me
               url: tags/
             - name: Blog
