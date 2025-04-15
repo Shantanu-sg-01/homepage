@@ -4,16 +4,18 @@ date: 2024-05-08
 hidemeta: true
 description: "Research areas and current directions"
 ---
+
 ---
-### Research Focus
+## Research Focus
 ---
+
 I’m broadly interested in using mathematics and programming to solve problems in science and engineering. My current focus is on the use of **functional programming** — especially Haskell — for building tools and frameworks in **scientific computing**.
 
 Applied mathematics shows up in almost every aerospace sub-domain. Final selection for projects will be made after a short 1:1 discussion to ensure alignment of interests.
 
 ---
 
-### Core Research Areas
+#### Core Research Areas
 
 - **Functional Programming for Scientific Computing**  
   HPC integration, algorithmic reformulation, and mathematical modeling using Haskell.
@@ -26,7 +28,7 @@ Applied mathematics shows up in almost every aerospace sub-domain. Final selecti
 
 ---
 
-### Open Projects & Mini-Projects
+#### Open Projects & Mini-Projects
 
 Students can take up mini-projects or supervised learning tracks (as extra-curricular work) focused on:
 
@@ -38,7 +40,7 @@ All projects aim to be intellectually rewarding and practically useful.
 
 ---
 
-### Research Group Policies
+#### Research Group Policies
 
 Once you're in the group, you'll be part of an active learning environment where we:
 
