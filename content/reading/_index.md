@@ -10,42 +10,24 @@ description: "Books, papers, and ideas that shaped my thinking"
 #### Books, papers, podcasts and ideas I am currently exploring
 
 ---
-#### What Fuels My Curiosity
-
-This is a growing list of books, papers, talks, and ideas that have influenced my approach to research, teaching, and building tools. Some are technical, others are philosophical—but all of them have made me stop and think.
-
----
 
 #### Books
 
-- *Structure and Interpretation of Computer Programs* – A foundational book in computing, and a lesson in clarity and depth.
-- *Functional Programming in Haskell* by Richard Bird – A gentle entry into Haskell’s elegance and mathematical flavor.
-- *Numerical Recipes* – A great resource for seeing how numerical methods translate into real code.
-- *The Feynman Lectures on Physics* – For the joy of explaining science simply.
+- *Elements of Flight Dynamics* by Prof. Nandan K. Sinha, reconnecting with my favorite topics, equations, and approaches in flight mechanics.
+- *Thinking Functionally with Haskell* by Richard Bird, a complete mindset shift in programming. It’s functions all the way down - even integers are functions! Haskell really makes programs feel like math.
+- *Leaves of grass* by Walt Whitman, Got hooked on “O Captain! My Captain!” and then “O Me! O Life!”… and haven’t stopped since.
 
 ---
 
 #### Papers & Articles
 
-- “Why Functional Programming Matters” by John Hughes – A classic that changed how I thought about modularity and abstraction.
-- *Software is Eating the World* by Marc Andreessen – For its insight into software-driven change.
+- “Why Functional Programming Matters” by John Hughes – a timeless classic, that still inspires, sometimes I catch myself saying, “That’s why functional programming matters!” — it really sticks with you.
+- *Hardware and Software for approximate computing* by Adrian Sampson, a visionary PhD thesis. If these ideas materialize, we’re looking at a major shift in computing.
 
 ---
 
 #### Talks & Blogs
 
-- Simon Peyton Jones' lectures on Haskell  
-- Julia Evans’ zines and blog – Bite-sized explanations of hard stuff  
-- The Papers We Love community – Always something new and insightful
-
+- Simon Peyton Jones' lectures on Haskell - deep, fun and full of insights. 
+- Ted talks related to teaching, always a great source of inspiration.
 ---
-
-#### To Be Read
-
-- *Applied Category Theory* by Fong & Spivak  
-- Selected topics from the Lean theorem prover docs  
-- *The Art of Scientific Computing* (Numerical Recipes continuation)
-
----
-
-Feel free to reach out if you’ve read something interesting lately — I’m always looking to expand this list.
