@@ -8,7 +8,7 @@ description: "Ways to connect, collaborate, and contribute"
 --- 
 #### Interested in Working With Me?
 
-If you're interested in doing a mini-project or long-term research under my guidance, please check out the [Research page](https://shantanu-sg-01.github.io/homepage/books/) first. It outlines current focus areas and ongoing initiatives.
+If you're interested in doing a mini-project or exploring a long-term idea with me—whether or not it counts for academic credit—take a look at the [Research page](https://shantanu-sg-01.github.io/homepage/books/). It gives an overview of my current focus areas and projects. I'm always happy to collaborate with motivated students, especially if you're building skills for future coursework or just want to explore something exciting outside the classroom.
 
 ---
 
