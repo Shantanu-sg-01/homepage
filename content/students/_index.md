@@ -11,7 +11,7 @@ description: "Ways to connect, collaborate, and contribute"
 --- 
 #### Project Opportunities
 
-I'm inviting students from all years to join various projects listed on the [Research page](https://shantanu-sg-01.github.io/homepage/books/). These opportunities are great for building skills early on—especially if you're preparing for mini or major projects, or planning to take up long-term research. The idea is to grow together in both depth and confidence, and strengthen your future prospects along the way. If you're interested, please follow the application instructions provided on the Research page.
+I'm inviting students from all years to join various projects listed on the [Research page](https://shantanu-sg-01.github.io/homepage/research/). These opportunities are great for building skills early on—especially if you're preparing for mini or major projects, or planning to take up long-term research. The idea is to grow together in both depth and confidence, and strengthen your future prospects along the way. If you're interested, please follow the application instructions provided on the Research page.
 
 ---
 
