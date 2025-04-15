@@ -16,7 +16,7 @@ description: "Books, papers, and ideas that shaped my thinking"
 - *Elements of Flight Dynamics* by Prof. Nandan K. Sinha, reconnecting with my favorite topics, equations, and approaches in flight mechanics.
 - *Thinking Functionally with Haskell* by Richard Bird, a complete mindset shift in programming. It’s functions all the way down - even integers are functions! Haskell really makes programs feel like math.
 - *Leaves of grass* by Walt Whitman, Got hooked on “O Captain! My Captain!” and then “O Me! O Life!”… and haven’t stopped since.
-![Leaves of Grass](/log.jpg)
+![Leaves of Grass](/images/log.jpg)
 
 ---
 
