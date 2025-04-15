@@ -9,7 +9,7 @@ description: "Research areas and current directions"
 ## Research Focus
 ---
 
-I’m broadly interested in using mathematics and programming to solve problems in science and engineering. My current focus is on the use of **functional programming** — especially Haskell — for building tools and frameworks in **scientific computing**.
+I’m broadly interested in using mathematics and programming to solve problems in science and engineering. My current focus is on the use of functional programming — especially Haskell — for building tools and frameworks in scientific computing.
 
 Applied mathematics shows up in almost every aerospace sub-domain. Final selection for projects will be made after a short 1:1 discussion to ensure alignment of interests.
 
@@ -17,13 +17,13 @@ Applied mathematics shows up in almost every aerospace sub-domain. Final selecti
 
 #### Core Research Areas
 
-- **Functional Programming for Scientific Computing**  
+- Functional Programming for Scientific Computing  
   HPC integration, algorithmic reformulation, and mathematical modeling using Haskell.
 
-- **Numerical Analysis and Computational Methods**  
+- Numerical Analysis and Computational Methods  
   Solvers and schemes for differential equations, simulations, and physical systems.
 
-- **Optimization Algorithms and Strategies**  
+- Optimization Algorithms and Strategies  
   Gradient-free, multi-fidelity, and surrogate-based approaches for engineering design.
 
 ---
