@@ -80,8 +80,8 @@ params:
               url: students/
             - name: Courses
               url: courses/
-            - name: Co-curricular
-              url: data/
+            - name: Reading & Inspiration
+              url: reading/
             - name: Research
               url: research/
             - name: About me
