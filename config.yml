@@ -77,7 +77,7 @@ params:
           imageHeight: 160
           buttons:
             - name: For Students
-              url: content/officehours.md
+              url: content/
             - name: Courses
               url: courses/
             - name: Co-curricular
