@@ -9,6 +9,7 @@ description: "Ways to connect, collaborate, and contribute"
 #### Interested in Working With Me?
 
 If you're interested in doing a mini-project or long-term research under my guidance, please check out the [Research page](https://shantanu-sg-01.github.io/homepage/books/) first. It outlines current focus areas and ongoing initiatives.
+
 ---
 
 #### Office Hours & Meeting Policy
@@ -33,8 +34,4 @@ We're running a weekly GATE test series within the department.
 
 + Discussion: Following Monday
 
-To participate, join our Google Classroom using this code: 
-<div style="display: flex; align-items: center;">
-  <code id="classroom-code" style="background:#f5f5f5;padding:6px 12px;border-radius:4px;">2cj3b5cf</code>
-  <button onclick="navigator.clipboard.writeText('2cj3b5cf')" style="margin-left:10px;padding:6px 12px;font-size:14px;border:none;background:#4CAF50;color:white;border-radius:4px;cursor:pointer;">Copy</button>
-</div>
+To participate, join our Google Classroom using this code: 2cj3b5cf
