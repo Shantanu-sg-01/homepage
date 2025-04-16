@@ -11,7 +11,15 @@ description: "Research areas and current directions"
 
 I’m broadly interested in using mathematics and programming to solve problems in science and engineering. My current focus is on the use of functional programming — especially Haskell — for building tools and frameworks in scientific computing.
 
-Applied mathematics shows up in almost every aerospace sub-domain. Final selection for projects will be made after a short 1:1 discussion to ensure alignment of interests.
+Applied mathematics shows up in almost every aerospace sub-domain. Final selection of application area for projects will be made after a short 1:1 discussion to ensure alignment of interests. That said, I am still sharing application areas I am planning to explore:
+
++ Design of satellite constellation missions with coverage planning
++ Conceptual design of aero-vehicles for planetary or space exploration
++ Scheduling problems for airline operations
++ Multiphysics modeling (ex - coupled heat transfer and structures)
++ Aircraft Design with special focus on electric-powered and hydrogen-powered powerplants
++ Machine-learning for modeling fluid flows and structurs
++ Quantum computing for aerodynamics
 
 ---
 
