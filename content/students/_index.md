@@ -37,4 +37,6 @@ We're running a weekly GATE test series within the department.
 
 + Discussion: Following Monday
 
-To participate, enter your name and institute email id in "[AE GATE Test Series Participants](https://sgeio-my.sharepoint.com/:x:/g/personal/shantanu_as_mvjce_edu_in/EZLR0FVGeL1GsMqL0G2-HOMB8vM7h866r0K1tb9t2kEcqg?e=sOW7Lh)" excel file. Note that, you can access the file only with your institute email. 
+To participate, join over MS Teams using this [LINK](https://teams.microsoft.com/l/team/19%3AIMJjOxMQS87YuNEFJR0TjQWFXdPaTYaav85PEj7MmV81%40thread.tacv2/conversations?groupId=c3675baa-3de2-4475-a40a-25bf769dba97&tenantId=ee0c014f-76f0-4c50-ba79-351579057b96).  Note that, you can access the team only with your institute email. 
+
+
