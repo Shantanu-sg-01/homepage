@@ -37,4 +37,4 @@ We're running a weekly GATE test series within the department.
 
 + Discussion: Following Monday
 
-To participate, join our Google Classroom using this code: 2cj3b5cf
+To participate, enter your name and institute email id in "[AE GATE Test Series Participants](https://sgeio-my.sharepoint.com/:x:/g/personal/shantanu_as_mvjce_edu_in/EZLR0FVGeL1GsMqL0G2-HOMB8vM7h866r0K1tb9t2kEcqg?e=sOW7Lh)" excel file. Note that, you can access the file only with your institute email. 
