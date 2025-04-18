@@ -1,0 +1,23 @@
+name: Generate Sitemap
+
+on:
+  push:
+    branches:
+      - main  # Replace with your default branch if different
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Generate sitemap
+        uses: cicirello/generate-sitemap@v1.10.1
+        with:
+          base-url: https://shantanu-sg-01.github.io/homepage
+          output-path: sitemap.xml
+          include-html: true
+          include-pdf: false
