@@ -7,6 +7,8 @@ description: "Research areas and current directions"
 
 ---
 ## Research Focus
+<p align='center'><strong>My Philosophy - Hire for Attitude, Train for Skills.</strong></p>
+<p align='center'><em>Skills can be taught - attitude shapes outcomes.</em></p>
 ---
 
 I’m broadly interested in using mathematics and programming to solve problems in science and engineering. My current focus is on the use of functional programming — especially Haskell — for building tools and frameworks in scientific computing.
