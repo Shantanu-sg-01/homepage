@@ -73,6 +73,8 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: Lambda Research Fellowship
+              url: lambda/
             - name: For Students
               url: students/
             - name: Courses
@@ -83,8 +85,7 @@ params:
               url: research/
             - name: Blog
               url: https://shantanusg.substack.com
-            - name: Lambda Research Fellowship
-              url: lambda/
+
 
     socialIcons:
         - name: CV
