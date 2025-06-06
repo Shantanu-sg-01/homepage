@@ -83,6 +83,8 @@ params:
               url: research/
             - name: Blog
               url: https://shantanusg.substack.com
+            - name: Lambda Research Fellowship
+              url: LambdaRF/
 
     socialIcons:
         - name: CV
