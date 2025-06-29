@@ -11,41 +11,41 @@ description: "Research areas and current directions"
 The following mini-projects are planned for 5th semester students under the research group. Each project is designed to be completed over a period of three months, and may be undertaken individually or in teams as specified. Below are the project titles, required background, and a brief description of the expected deliverables:
 
 1. UAV Configuration Selection Using Data-Driven Multi-Criteria Decision Making
-    Background: AE/AS with understanding UAV system components, performance parameters and Python language.
-    Team Size: 4 members.
-Description: The objective of this project is to develop an intelligent system based on multi-criteria decision-making (MCDM) techniques that recommends suitable UAV configurations based on functional and operational requirements. The system will integrate data-driven methods to handle diverse design constraints and preferences.
+* Background: AE/AS with understanding UAV system components, performance parameters and Python language.
+* Team Size: 4 members.
+* Description: The objective of this project is to develop an intelligent system based on multi-criteria decision-making (MCDM) techniques that recommends suitable UAV configurations based on functional and operational requirements. The system will integrate data-driven methods to handle diverse design constraints and preferences.
 
 2. Integration of libTorch with OpenFOAM for Physics-Informed Deep Learning in Aerodynamics
-   Background: AE/AS with good knowledge of C++, Object-oriented programming and fluid dynamics.
-Team Size: Up to 2 members
-Description: This project involves coupling OpenFOAM (for CFD analysis) with libTorch (PyTorch C++ API) to build a framework for physics-informed deep learning in aerodynamic simulations. The deliverables include the development of a simulation pipeline and training of neural networks using CFD-generated data.
+* Background: AE/AS with good knowledge of C++, Object-oriented programming and fluid dynamics.
+* Team Size: Up to 2 members
+* Description: This project involves coupling OpenFOAM (for CFD analysis) with libTorch (PyTorch C++ API) to build a framework for physics-informed deep learning in aerodynamic simulations. The deliverables include the development of a simulation pipeline and training of neural networks using CFD-generated data.
 
 3. Shape Optimization of Airfoils Using Adjoint Methods
-   Background: AE/AS, with strong grasp of numerical methods, calculas and aerodynamics and Python language.
-Team Size: Up to 2 members
-Description: This project focuses on the aerodynamic shape optimization of a baseline airfoil for the specified flight conditions using gradient-based methods and adjoint solvers. Students will develop an optimization framework on top of OpenMDAO to improve aerodynamic performance metrics such as lift-to-drag ratio.
+* Background: AE/AS, with strong grasp of numerical methods, calculas and aerodynamics and Python language.
+* Team Size: Up to 2 members
+* Description: This project focuses on the aerodynamic shape optimization of a baseline airfoil for the specified flight conditions using gradient-based methods and adjoint solvers. Students will develop an optimization framework on top of OpenMDAO to improve aerodynamic performance metrics such as lift-to-drag ratio.
 
 4. Development of CUDA-based Functional Programming Framework for Solving Large Sparse Linear Systems
-Background: AE/AS/CS, Strong background in linear algebra, solid programming skills, and access to a CUDA-capable GPU (locally or via cloud).
-Team Size: Up to 2 members
-The project aims to develop a GPU-accelerated framework using CUDA and functional programming (preferably Haskell) to solve large sparse systems of linear equations. These systems frequently arise in numerical methods for engineering problems such as CFD, structural analysis, and optimization. The framework can either be built from scratch or layered over existing Haskell and CUDA-compatible libraries.
+* Background: AE/AS/CS, Strong background in linear algebra, solid programming skills, and access to a CUDA-capable GPU (locally or via cloud).
+* Team Size: Up to 2 members
+* Description: The project aims to develop a GPU-accelerated framework using CUDA and functional programming (preferably Haskell) to solve large sparse systems of linear equations. These systems frequently arise in numerical methods for engineering problems such as CFD, structural analysis, and optimization. The framework can either be built from scratch or layered over existing Haskell and CUDA-compatible libraries.
 The final project should be hosted on a public open-source package repository (e.g., GitHub, GitLab, Hackage). It must include well-structured documentation, an installation guide, and at least five beginner-friendly tutorials or usage examples to help new users get started.
 
 5. Design of a Domain-Specific Language (DSL) for Tensor Calculus with Applications in Deep Learning
-Background: CS/CD/IS, strong programming skills, and understanding of tensor mathematics.
-Team Size: Up to 2 members
-Description: This project aims to develop an embedded DSL, preferably in Haskell, that captures the core elements of tensor algebra and calculus. The language should provide expressive representations of key operations and data structures, addressing limitations of current tensor libraries. The DSL will be demonstrated through implementation of a basic feedforward neural network.
+* Background: CS/CD/IS, strong programming skills, and understanding of tensor mathematics.
+* Team Size: Up to 2 members
+* Description: This project aims to develop an embedded DSL, preferably in Haskell, that captures the core elements of tensor algebra and calculus. The language should provide expressive representations of key operations and data structures, addressing limitations of current tensor libraries. The DSL will be demonstrated through implementation of a basic feedforward neural network.
 The final project should be hosted on a public open-source package repository (e.g., GitHub, GitLab, Hackage). It must include well-structured documentation, an installation guide, and at least five beginner-friendly tutorials or usage examples to help new users get started.
 
 6  Design of a Domain-Specific Language (DSL) for Solving Linear Programming Problems in Engineering
-Background: Computer Science (CS) / Computational Data Science (CD) / Information Science (IS)
-Team Size: Up to 2 members
-Description: The project involves the design and implementation of a DSL (preferably embedded in Haskell) for formulating and solving linear programming problems using classical algorithms such as the Simplex method. The DSL will be applied to representative problems from various engineering domains to demonstrate its practical utility.
+* Background: Computer Science (CS) / Computational Data Science (CD) / Information Science (IS)
+* Team Size: Up to 2 members
+* Description: The project involves the design and implementation of a DSL (preferably embedded in Haskell) for formulating and solving linear programming problems using classical algorithms such as the Simplex method. The DSL will be applied to representative problems from various engineering domains to demonstrate its practical utility.
 The final project should be hosted on a public open-source package repository (e.g., GitHub, GitLab, Hackage). It must include well-structured documentation, an installation guide, and at least five beginner-friendly tutorials or usage examples to help new users get started.
 ---
 ## Research Focus
 <p align='center'><strong>My Philosophy - Hire for Attitude, Train for Skills.</strong></p>
-<p align='center'><em>Skills can be taught - attitude shapes outcomes.</em></p>
+<p align='center'><em>Skills can be taught - attitude shapes the outcomes.</em></p>
 
 I’m broadly interested in using mathematics and programming to solve problems in science and engineering. My current focus is on the use of functional programming — especially Haskell — for building tools and frameworks in scientific computing.
 
