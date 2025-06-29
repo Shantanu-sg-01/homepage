@@ -13,12 +13,16 @@ The following mini-projects are planned for 5th semester students under the rese
 **1. UAV Configuration Selection Using Data-Driven Multi-Criteria Decision Making**
 * Background: AE/AS with understanding UAV system components, performance parameters and Python language.
 * Team Size: 4 members.
-* The objective of this project is to develop an intelligent system based on multi-criteria decision-making (MCDM) techniques that recommends suitable UAV configurations based on functional and operational requirements. The system will integrate data-driven methods to handle diverse design constraints and preferences.
+* <p align="justify">
+The objective of this project is to develop an intelligent system based on multi-criteria decision-making (MCDM) techniques that recommends suitable UAV configurations based on functional and operational requirements. The system will integrate data-driven methods to handle diverse design constraints and preferences.
+</p>
 
 **2. Integration of libTorch with OpenFOAM for Physics-Informed Deep Learning in Aerodynamics**
 * Background: AE/AS with good knowledge of C++, Object-oriented programming and fluid dynamics.
 * Team Size: Up to 2 members
-* This project involves coupling OpenFOAM (for CFD analysis) with libTorch (PyTorch C++ API) to build a framework for physics-informed deep learning in aerodynamic simulations. The deliverables include the development of a simulation pipeline and training of neural networks using CFD-generated data.
+* <p align="justify">
+This project involves coupling OpenFOAM (for CFD analysis) with libTorch (PyTorch C++ API) to build a framework for physics-informed deep learning in aerodynamic simulations. The deliverables include the development of a simulation pipeline and training of neural networks using CFD-generated data.
+</p>
 
 **3. Shape Optimization of Airfoils Using Adjoint Methods**
 * Background: AE/AS, with strong grasp of numerical methods, calculas and aerodynamics and Python language.
