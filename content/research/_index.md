@@ -62,7 +62,7 @@ Applied mathematics shows up in almost every aerospace sub-domain. Final selecti
 
 ---
 
-#### Core Research Areas
+### Core Research Areas
 - Functional Programming for Scientific Computing  
   HPC integration, algorithmic reformulation, and mathematical modeling using Haskell.
 
@@ -74,7 +74,7 @@ Applied mathematics shows up in almost every aerospace sub-domain. Final selecti
 
 ---
 
-#### Open Projects & Mini-Projects
+### Open Projects & Mini-Projects
 
 Students can take up mini-projects or supervised learning tracks (as extra-curricular work) focused on:
 
