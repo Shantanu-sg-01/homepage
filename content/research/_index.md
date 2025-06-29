@@ -13,9 +13,7 @@ The following mini-projects are planned for 5th semester students under the rese
 **1. UAV Configuration Selection Using Data-Driven Multi-Criteria Decision Making**
 * Background: AE/AS with understanding UAV system components, performance parameters and Python language.
 * Team Size: 4 members.
-* <p align="justify">
-The objective of this project is to develop an intelligent system based on multi-criteria decision-making (MCDM) techniques that recommends suitable UAV configurations based on functional and operational requirements. The system will integrate data-driven methods to handle diverse design constraints and preferences.
-</p>
+* <p align="justify">The objective of this project is to develop an intelligent system based on multi-criteria decision-making (MCDM) techniques that recommends suitable UAV configurations based on functional and operational requirements. The system will integrate data-driven methods to handle diverse design constraints and preferences.</p>
 
 **2. Integration of libTorch with OpenFOAM for Physics-Informed Deep Learning in Aerodynamics**
 * Background: AE/AS with good knowledge of C++, Object-oriented programming and fluid dynamics.
