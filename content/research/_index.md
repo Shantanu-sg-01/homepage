@@ -10,7 +10,7 @@ description: "Research areas and current directions"
 
 The following mini-projects are planned for 5th semester students under the research group. Each project is designed to be completed over a period of three months, and may be undertaken individually or in teams as specified. Below are the project titles, required background, and a brief description of the expected deliverables:
 
-1. UAV Configuration Selection Using Data-Driven Multi-Criteria Decision Making
+**1. UAV Configuration Selection Using Data-Driven Multi-Criteria Decision Making**
 * Background: AE/AS with understanding UAV system components, performance parameters and Python language.
 * Team Size: 4 members.
 * The objective of this project is to develop an intelligent system based on multi-criteria decision-making (MCDM) techniques that recommends suitable UAV configurations based on functional and operational requirements. The system will integrate data-driven methods to handle diverse design constraints and preferences.
