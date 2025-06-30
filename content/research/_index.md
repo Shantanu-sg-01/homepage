@@ -84,7 +84,7 @@ Applied mathematics shows up in almost every aerospace sub-domain. Final selecti
 
 Once you're in the group, you're part of an active, collaborative, and professional learning environment. We aim to grow together — as thinkers, researchers, and creators. Here's how we work:
 
-** *Research Training* **
+<strong> *Research Training* </strong>
 We conduct regular training on how to read research papers critically, identify gaps in literature, and articulate research questions.
 
 ** *Collaborative Culture* **
