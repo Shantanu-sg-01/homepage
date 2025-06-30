@@ -36,7 +36,7 @@ The following mini-projects are planned for 5th semester students under the rese
 * <p align="justify">This project aims to develop an embedded DSL, preferably in Haskell, that captures the core elements of tensor algebra and calculus. The language should provide expressive representations of key operations and data structures, addressing limitations of current tensor libraries. The DSL will be demonstrated through implementation of a basic feedforward neural network.</p>
 
 **6. Design of a Domain-Specific Language (DSL) for Solving Linear Programming Problems in Engineering**
-* Background: Computer Science (CS) / Computational Data Science (CD) / Information Science (IS)
+* Background: CS/CD/IS, strong programming skills, and linear algebra.
 * Team Size: Up to 2 members
 * <p align="justify">The project involves the design and implementation of a DSL (preferably embedded in Haskell) for formulating and solving linear programming problems using classical algorithms such as the Simplex method. The DSL will be applied to representative problems from various engineering domains to demonstrate its practical utility.</p>
 
@@ -45,9 +45,13 @@ Please make note for the project #4, #5 and #6.
 <p align="justify">The final project should be hosted on a public open-source package repository (e.g., GitHub, GitLab, Hackage). It must include well-structured documentation, an installation guide, and at least five beginner-friendly tutorials or usage examples to help new users get started.</p>
 
 ---
+
+### Open Projects 
+
+I welcome self-motivated students from any branch, year, or level of experience to bring their own project ideas for discussion. If you're passionate, curious and willing to learn, we can explore it together. Please read further to know my interests and expertise. 
+
+---
 ## Research Focus
-<p align='center'><strong>My Philosophy - Hire for Attitude, Train for Skills.</strong></p>
-<p align='center'><em>Skills can be taught - attitude shapes the outcomes.</em></p>
 
 I’m broadly interested in using mathematics and programming to solve problems in science and engineering. My current focus is on the use of functional programming — especially Haskell — for building tools and frameworks in scientific computing.
 
@@ -76,48 +80,38 @@ Applied mathematics shows up in almost every aerospace sub-domain. Final selecti
 
 ---
 
-### Open Projects & Mini-Projects
-
-Students can take up mini-projects or supervised learning tracks (as extra-curricular work) focused on:
-
-- Solving benchmark problems  
-- Contributing to tool or library development  
-- Building capacity for final-year projects or future research roles  
-
----
-
 ### Research Group Policies
 
 Once you're in the group, you're part of an active, collaborative, and professional learning environment. We aim to grow together — as thinkers, researchers, and creators. Here's how we work:
 
-*Research Training*
+** *Research Training* **
 We conduct regular training on how to read research papers critically, identify gaps in literature, and articulate research questions.
 
-*Collaborative Culture*
+** *Collaborative Culture* **
 Collaboration is encouraged across projects. Peer discussions and constructive feedback are part of the weekly routine, to troubleshoot commonly faced problems.
 
-*Weekly Check-ins / Sync-ups*
+** *Weekly Check-ins / Sync-ups* **
 Everyone is expected to give brief weekly updates. These help track progress, unblock issues, and keep ideas flowing.
 
-*Project Documentation*
+** *Project Documentation* **
 Maintain a shared research log or notebook (markdown or overleaf) with clear records of objectives, decisions, and results.
 
-*Version Control (Git)*
+** *Version Control (Git)* **
 All code must be managed through GitHub (or similar), with clean commit history and meaningful documentation.
 
-*Academic Integrity*
+** *Academic Integrity* **
 Plagiarism, code copying, or misrepresenting contributions is strictly prohibited. Always cite sources and give credit where it's due.
 
-*Respect Deadlines*
+** *Respect Deadlines* **
 We value each other’s time. Set realistic goals and communicate proactively if you're unable to meet them.
 
-*Openness to Learning*
+** *Openness to Learning* **
 You are not expected to know everything. Asking questions, making mistakes, and learning from them is a core part of research.
 
-*Mentorship & Peer Support*
+** *Mentorship & Peer Support* **
 Senior students are encouraged to mentor juniors. We grow faster when we teach each other.
 
-*Code of Conduct*
+** *Code of Conduct* **
 Respect diverse perspectives, communicate kindly, and maintain a safe and inclusive environment for all.
 
 ===> To apply, just send me a 3-line email expressing your interest and background.
