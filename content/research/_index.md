@@ -8,7 +8,7 @@ description: "Research areas and current directions"
 ---
 ## Upcoming Miniprojects - V semester
 
-The following mini-projects are planned for 5th semester students under the research group. Each project is designed to be completed over a period of three months, and may be undertaken individually or in teams as specified. Below are the project titles, required background, and a brief description of the expected deliverables:
+<p align="justify">The following mini-projects are planned for 5th semester students under the research group. Each project is designed to be completed over a period of three months, and may be undertaken individually or in teams as specified. Below are the project titles, required background, and a brief description of the expected deliverables:</p>
 
 <strong>1. UAV Configuration Selection Using Data-Driven Multi-Criteria Decision Making</strong>
 * Team Size: 4 members.
