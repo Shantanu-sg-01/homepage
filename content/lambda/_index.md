@@ -10,7 +10,8 @@ description: "To explore functionals of Quantum Computing"
 **Positions Available:** 2  
 **Program Duration:** 4 weeks  
 **Working Hours:** 6 hours/day, 6 days a week  
-**Mode:** Remote
+**Mode:** Remote (with optional in-person/hybrid meetings in campus)  
+
 ---
 
 ### Important Dates
