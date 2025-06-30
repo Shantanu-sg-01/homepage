@@ -12,7 +12,7 @@ The following mini-projects are planned for 5th semester students under the rese
 
 <strong>1. UAV Configuration Selection Using Data-Driven Multi-Criteria Decision Making</strong>
 * Team Size: 4 members.
-* Domain: AE, AS. 
+* Background: AE, AS. 
 * <p align="justify">This project will improve your knowledge of current state-of-the-art in the drone technology. The outcome will be useful in conceptual design of uav in student's academic projects and in industry. Fundamental knowledge of UAV system components, performance parameters and willingness to learn python is expected.</p>
 
 **2. Integration of libTorch with OpenFOAM for Physics-Informed Deep Learning in Aerodynamics**
