@@ -85,33 +85,35 @@ Applied mathematics shows up in almost every aerospace sub-domain. Final selecti
 Once you're in the group, you're part of an active, collaborative, and professional learning environment. We aim to grow together — as thinkers, researchers, and creators. Here's how we work:
 
 <strong> *Research Training* </strong>
-We conduct regular training on how to read research papers critically, identify gaps in literature, and articulate research questions.
 
-** *Collaborative Culture* **
+We conduct regular training and discussions to develop strong research skills.
+
+<strong> *Collaborative Culture* </strong>
+
 Collaboration is encouraged across projects. Peer discussions and constructive feedback are part of the weekly routine, to troubleshoot commonly faced problems.
 
-** *Weekly Check-ins / Sync-ups* **
+<strong> *Weekly Check-ins / Sync-ups* </strong>
 Everyone is expected to give brief weekly updates. These help track progress, unblock issues, and keep ideas flowing.
 
-** *Project Documentation* **
+<strong> *Project Documentation* </strong>
 Maintain a shared research log or notebook (markdown or overleaf) with clear records of objectives, decisions, and results.
 
-** *Version Control (Git)* **
+<strong> *Version Control (Git)* </strong>
 All code must be managed through GitHub (or similar), with clean commit history and meaningful documentation.
 
-** *Academic Integrity* **
+<strong> *Academic Integrity* </strong>
 Plagiarism, code copying, or misrepresenting contributions is strictly prohibited. Always cite sources and give credit where it's due.
 
-** *Respect Deadlines* **
+<strong> *Respect Deadlines* </strong>
 We value each other’s time. Set realistic goals and communicate proactively if you're unable to meet them.
 
-** *Openness to Learning* **
+<strong> *Openness to Learning* </strong>
 You are not expected to know everything. Asking questions, making mistakes, and learning from them is a core part of research.
 
-** *Mentorship & Peer Support* **
+<strong> *Mentorship & Peer Support* </strong>
 Senior students are encouraged to mentor juniors. We grow faster when we teach each other.
 
-** *Code of Conduct* **
+<strong> *Code of Conduct* </strong>
 Respect diverse perspectives, communicate kindly, and maintain a safe and inclusive environment for all.
 
 ===> To apply, just send me a 3-line email expressing your interest and background.
