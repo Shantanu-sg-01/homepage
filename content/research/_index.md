@@ -93,27 +93,35 @@ We conduct regular training and discussions to develop strong research skills.
 Collaboration is encouraged across projects. Peer discussions and constructive feedback are part of the weekly routine, to troubleshoot commonly faced problems.
 
 <strong> *Weekly Check-ins / Sync-ups* </strong>
+
 Everyone is expected to give brief weekly updates. These help track progress, unblock issues, and keep ideas flowing.
 
 <strong> *Project Documentation* </strong>
+
 Maintain a shared research log or notebook (markdown or overleaf) with clear records of objectives, decisions, and results.
 
 <strong> *Version Control (Git)* </strong>
+
 All code must be managed through GitHub (or similar), with clean commit history and meaningful documentation.
 
 <strong> *Academic Integrity* </strong>
+
 Plagiarism, code copying, or misrepresenting contributions is strictly prohibited. Always cite sources and give credit where it's due.
 
 <strong> *Respect Deadlines* </strong>
+
 We value each other’s time. Set realistic goals and communicate proactively if you're unable to meet them.
 
 <strong> *Openness to Learning* </strong>
+
 You are not expected to know everything. Asking questions, making mistakes, and learning from them is a core part of research.
 
 <strong> *Mentorship & Peer Support* </strong>
+
 Senior students are encouraged to mentor juniors. We grow faster when we teach each other.
 
 <strong> *Code of Conduct* </strong>
+
 Respect diverse perspectives, communicate kindly, and maintain a safe and inclusive environment for all.
 
 ===> To apply, just send me a 3-line email expressing your interest and background.
