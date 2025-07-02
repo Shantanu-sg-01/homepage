@@ -8,40 +8,26 @@ description: "Research areas and current directions"
 ---
 ## Upcoming Miniprojects - V semester
 
-<p align="justify">The following mini-projects are planned for 5th semester students under the research group. Each project may be undertaken individually or in teams as specified. Below are the project titles, required background, and a brief description of the expected deliverables:</p>
+<p align="justify">The following mini-projects are being offered to the 5th semester students. Participating students will have the opportunity to contribute to the formation of a focused research group and may continue their involvement through future projects, workshops, and collaborations. Each project may be undertaken individually or in teams, as specified. The list below includes project titles, required background, and a brief description of the objectives and expected deliverables.</p>
 
 <strong>1. UAV Configuration Selection Using Data-Driven Multi-Criteria Decision Making</strong>
 * Team Size: 4 members.
 * Background: AE, AS. 
-* <p align="justify">This project will improve your knowledge of current state-of-the-art in the drone technology. The outcome will be useful in conceptual design of uav in student's academic projects and in industry. Fundamental knowledge of UAV system components, performance parameters and willingness to learn python is expected.</p>
+* <p align="justify">This project aims to enhance your understanding of the current state-of-the-art in drone technologies. Students will explore various UAV configurations and apply data-driven, multi-criteria decision-making (MCDM) methods to identify optimal design choices. The outcome will support conceptual UAV design in both academic and industry settings.</p>
+* <p align="justify">A basic understanding of UAV system components and performance metrics is expected. Familiarity with Python is desirable, and a willingness to learn it during the project is essential.</p>
 
-**2. Integration of libTorch with OpenFOAM for Physics-Informed Deep Learning in Aerodynamics**
+**2. Implementation of Airfoil Panel Method with Laminar and Turbulent Boundary Layer Modeling**
 * Team Size: Up to 2 members
 * Background: AE, AS.
-* <p align="justify">This is a great opportunity to get started with machine learning and CFD. Students should be ready to learn C++ programming and carry a problem-solving attitude.</p>
+* <p align="justify">Students will get hands-on experience with coding a numerical method, interpreting aerodynamic results, and performing validation—a foundational step in computational aerodynamics. The students should learn and use Python language.</p>
 
-**3. Shape Optimization of Airfoils Using Adjoint Methods**
+**3. Compositional Tensor Algebra: Designing a DSL for Machine Learning Models**
 * Team Size: Up to 2 members
-* Background: AE, AS.
-* <p align="justify">Students interested in industrial application of aerodynamics can pursue this project. It will help develop strong understanding of engineering design optimization and python programming.</p> 
+* Background: CS, CD, IS. Students should have basic programming experience and an interest in tensor mathematics.
+* <p align="justify">Students passionate about programming languages and open-source development are encouraged to take up this project. The objective is to build an embedded Domain-Specific Language (DSL)—preferably in Haskell—to express operations in tensor algebra and calculus, with applications in deep learning and numerical computing.</p>
 
-**4. Development of CUDA-based Functional Programming Framework for Solving Large Sparse Linear Systems**
-* Team Size: Up to 2 members
-* Background: AE, AS, CS, Strong programming skills, and access to a CUDA-capable GPU (locally or via cloud).
-* <p align="justify">Students who want to excel in programming and problem-solving can choose this project. The aim is to develop a GPU-accelerated framework using CUDA and functional programming (preferably Haskell) to solve large sparse systems of linear equations.</p>
-
-**5. Design of a Domain-Specific Language (DSL) for Tensor Calculus with Applications in Deep Learning**
-* Team Size: Up to 2 members
-* Background: CS, CD, IS, strong programming skills, and familarity with tensor mathematics., 
-* <p align="justify">Students interested in developing their own programming language and contributing in open-source projects should choose this project. The aim is to develop an embedded DSL, preferably in Haskell, that captures the core elements of tensor algebra and calculus</p>
-
-**6. Design of a Domain-Specific Language (DSL) for Solving Linear Programming Problems in Engineering**
-* Team Size: Up to 2 members
-* Background: CS/CD/IS, strong programming skills, and familarity with linear algebra.
-* <p align="justify">Students interested in developing their own programming language and contributing in open-source projects should choose this project. The project involves the design and implementation of a DSL (preferably embedded in Haskell) for formulating and solving linear programming problems using classical algorithms such as the Simplex method.</p>
 
 #### NOTE
-Please make note for the project #4, #5 and #6. 
 <p align="justify">The final project should be hosted on a public open-source package repository (e.g., GitHub, GitLab, Hackage). It must include well-structured documentation, an installation guide, and at least five beginner-friendly tutorials or usage examples to help new users get started.</p>
 
 ---
