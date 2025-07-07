@@ -8,7 +8,9 @@ description: "To explore functionals of Quantum Computing"
 # Call for Applications: Research Fellowship in Quantum Computing
 
 Application deadline is extended!!!
-**Positions Available:** 2  
+---
+
+**Positions Available:** 1 (One position is already filled)  
 **Program Duration:** 4 weeks  
 **Working Hours:** 6 hours/day, 6 days a week  
 **Mode:** Remote (with optional in-person/hybrid meetings in campus)  
