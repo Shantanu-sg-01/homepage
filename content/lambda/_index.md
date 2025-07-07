@@ -7,6 +7,7 @@ description: "To explore functionals of Quantum Computing"
 
 # Call for Applications: Research Fellowship in Quantum Computing
 
+Application deadline is extended!!!
 **Positions Available:** 2  
 **Program Duration:** 4 weeks  
 **Working Hours:** 6 hours/day, 6 days a week  
@@ -15,7 +16,7 @@ description: "To explore functionals of Quantum Computing"
 ---
 
 ### Important Dates
-- **Application Deadline:** 5th July 2025  
+- **Application Deadline Extended to:** 8th July 2025  
 - **Interviews & Selection:** 6th July 2025  
 - **Program Start Date:** 7th July 2025  
 - **Program End Date:** 4th August 2025  
