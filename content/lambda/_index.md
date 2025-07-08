@@ -18,9 +18,9 @@ Application deadline is extended!!!
 ---
 
 ### Important Dates
-- **Application Deadline Extended to:** 8th July 2025  
-- **Interviews & Selection:** 6th July 2025  
-- **Program Start Date:** 7th July 2025  
+- **Application Deadline Extended to:** 7th July 2025  
+- **Interviews & Selection:** 7th and 8th July 2025  
+- **Program Start Date:** 9th July 2025  
 - **Program End Date:** 4th August 2025  
 
 ---
